@@ -1,7 +1,10 @@
 
 
-site_name: MkLorum
+site_name: Cheryl pelis
 site_url: https://example.com/
 nav:
-    - Home: index.md
-    - About: about.md
+    - Pelis: index.md
+    - Comida: about.md
+
+markdown_extensions:
+  - attr_list
